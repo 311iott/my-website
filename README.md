@@ -6,6 +6,8 @@ some edits before the rebase (FREEBASE BAYBUHHH!!)
 
 ## Repository Purpose
 
-This will be a change that conflicts
-with changes made on the remote side.
-This was edited locally.
+This file is just a readme file
+
+
+
+
