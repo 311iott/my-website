@@ -8,6 +8,11 @@ some edits before the rebase (FREEBASE BAYBUHHH!!)
 
 This file is just a readme file
 
+## Purpose
+
+The purpose of this file is to demonstrate how
+to use Git and Github together.
+
 
 
 
